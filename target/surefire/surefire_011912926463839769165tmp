@@ -1,0 +1,7 @@
+#surefire_0
+#Sat Sep 18 14:01:11 WIB 2021
+basedir=C\:\\august2021
+surefire.suiteXmlFiles=APISuite.xml
+user.dir=C\:\\august2021
+env=prod
+localRepository=C\:\\Users\\ahmad.sofiyan\\.m2\\repository

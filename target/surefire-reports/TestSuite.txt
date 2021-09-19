@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 7, Time elapsed: 5.73 sec <<< FAILURE! - in TestSuite
+testLoginAPI(qaautomation.august2021.APITest)  Time elapsed: 5.441 sec  <<< FAILURE!
+java.lang.AssertionError: expected [200] but found [422]
+
